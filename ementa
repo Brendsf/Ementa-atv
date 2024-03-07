@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Ementa</title>
+    
+        <style>
+
+                body{
+                    text-align: justify;
+                    text-align-last: center;
+                    background-color: #f2dfdb;
+                    
+                }
+
+                *{
+                    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                }
+
+                .titulo {
+            color: #9b9a98;
+        }
+
+        .subtitulo {
+            font-size: 25px;
+        }
+
+        #cargaHoraria {
+            margin-top: -30px;
+            color: #bdbdbd;
+        }
+
+        .paragrafo {
+            font-size: 19px;
+            margin-top: -20px;
+            margin-left: 350px; 
+            margin-right: 350px;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="titulo">Componente curricular: Projeto e Prática 2</h1> <br>
+    <h2 class="subtitulo" id="cargaHoraria">- Carga horária - </h2> <br>
+    <p class="paragrafo">Total (120 h/a - 90 h/r) - AT (40 h/a - 30 h/r) - AP (80 h/a - 60 h/r)</p> 
+    <h2 class="subtitulo" style="color: #bdbdbd;">- Ementa -</h2> <br>
+    <p class="paragrafo">Conhecer e analisar métodos de diferentes abordagens para planejar, gerenciar, desenvolver, testar e
+        manter um software com alta qualidade.</p>
+    <h2 class="subtitulo" style="color: #bdbdbd;">- Referências básicas -</h2> <br>
+    <p class="paragrafo">
+        1. PRESSMAN, R. S. Engenharia de software: Uma Abordagem Profissional. 7. ed.
+        McGraw-Hill, 2011. <br>
+        2. SOMMERVILLE, I. Engenharia de software. 8. ed. São Paulo: Pearson, 2007. <br>
+        3. MEDEIROS, Ernani. Desenvolvendo Software Com UML 2.0 Definitivo. Pearson Makron
+        Books, 2004</p>
+
+        <h2 class="subtitulo" style="color: #bdbdbd;">- Referências complementares -</h2> <br>
+        <p class="paragrafo">
+            1. GILLENSON, Mark L. Fundamentos de sistemas de gerência de banco de dados. LTC, 2006.<br>
+            2. HEUSER, Carlos Alberto. Projeto de Banco de Dados. Bookman, 2010.<br>
+            3. KORTH, Henry; SILBERSCHATZ, Abraham; SUDARSCHAN, S. Sistema de Bancos de
+            Dados. 4. ed. Makron Books, 2006.
+            4. FILHO, W. P. P. Engenharia de Software - Fundamentos, Métodos e Padrões. LTC, 2009.<br>
+            5. Revista Engenharia de Software Magazine - Editora Devmedia.</p>
+</body>
+</html>
